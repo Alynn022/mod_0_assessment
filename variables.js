@@ -1,0 +1,9 @@
+var movie = 'Coco';
+var isEntertaining = true;
+movie = 'Moana';
+var num4 = 22;
+var num6 = 2;
+var product = num4 * num6
+var favoriteFoods = ['pizza', 'sushi', 'wings'];
+favoriteFoods [0] = null;
+var strLength = movie.length;
